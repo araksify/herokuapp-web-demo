@@ -9,7 +9,6 @@
                 </classes>
             </test>
             <listeners>
-                <!--<listener class-name="ListenerForReport"/>-->
                 <listener class-name="org.testng.reporters.EmailableReporter2"/>
             </listeners>
         </suite>
